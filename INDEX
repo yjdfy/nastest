@@ -1,0 +1,13 @@
+{
+    "trueNAS_plugin_test": {
+        "MANIFEST": "asigra.json",
+        "name": "Asigra Backup",
+        "icon": "https://media.sys.truenas.net/core/icons/asigra.png",
+        "description": "Allows administrators to back up data from network-connected computers and mobile devices. Leverages standard API calls from a single on-site Asigra service (DS-Client) to reach into these devices and access the data.",
+        "official": true,
+        "primary_pkg": "dssystem",
+        "category": "backup",
+        "maintainer": "iXsystems <dev@ixsystems.com>",
+        "homepage": "https://www.asigra.com/"
+    }
+}
