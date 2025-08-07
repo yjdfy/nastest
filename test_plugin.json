@@ -9,7 +9,7 @@
     "properties": {
         "dhcp": 1
     },
-    "packagesite": "https://github.com/yjdfy/nastest/blob/13.5-RELEASE",
+    "packagesite": "http://10.65.71.90:9999",
     "fingerprints": {
         "iocage-plugins": [
             {
