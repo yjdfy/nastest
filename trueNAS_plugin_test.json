@@ -1,0 +1,14 @@
+{
+    "name": "trueNAS_plugin_test",
+    "release": "13.5-RELEASE",
+    "packagesite": "https://github.com/yjdfy/nastest/13.5-RELEASE",
+    "fingerprints": {
+        "iocage-plugins": [
+            {
+                "function": "sha256",
+                "fingerprint": "39bc939e37bb0c54ecfd4df64d562c4cb4a9146f1894dc89dbe5c05064d3e9f8"
+            }
+        ]
+    },
+    "revision": "0"
+}
