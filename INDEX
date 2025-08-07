@@ -1,0 +1,10 @@
+{
+    "test_plugin": {
+        "MANIFEST": "test_plugin.json",
+        "name": "test_plugin",
+        "icon": "https://media.sys.truenas.net/core/icons/asigra.png",
+        "description": "test.",
+        "official": true,
+        "primary_pkg": "test_plugin"
+    }
+}
