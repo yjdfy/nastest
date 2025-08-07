@@ -1,0 +1,22 @@
+{
+    "name": "test_plugin",
+    "release": "13.2-RELEASE",
+    "artifact": "https://github.com/leandroscardua/iocage-plugin-adguardhome.git",
+    "official": false,
+    "pkgs": [
+        "test_plugin"
+    ],
+    "properties": {
+        "dhcp": 1
+    },
+    "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+    "fingerprints": {
+        "iocage-plugins": [
+            {
+                "function": "sha256",
+                "fingerprint": "39bc939e37bb0c54ecfd4df64d562c4cb4a9146f1894dc89dbe5c05064d3e9f8"
+            }
+        ]
+    },
+    "revision": 0
+}
